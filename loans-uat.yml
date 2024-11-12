@@ -1,0 +1,15 @@
+build:
+  version: "dev from cloud"
+
+loans:
+  message: "This is property loans service from UAT loans from cloud"
+  usage: "Used to store properties related to loans from UAT loans from cloud"
+  support:
+    email: "support@citi.com"
+    mobileNumber: 8220375
+  working:
+    days: "SUN-SAT 24*7"
+    leave: "N/A"
+  team:
+    - boys
+    - girls

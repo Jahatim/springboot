@@ -1,0 +1,15 @@
+build:
+  version: "default loans version from cloud"
+
+loans:
+  message: "This is property loans service from default   loans default from cloud"
+  usage: "Used to store properties related to loans service   loans default from cloud"
+  support:
+    email: "support@citi.com"
+    mobileNumber: 8220375
+  working:
+    days: "SUN-SAT 24*7"
+    leave: "N/A"
+  team:
+    - boys
+    - girls

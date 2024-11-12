@@ -1,0 +1,15 @@
+build:
+  version: "dev from cloud"
+
+accounts:
+  message: "This is property accounts service from dev cloud config"
+  usage: "Used to store properties related to accounts from dev cloud config"
+  support:
+    email: "support@citi.com"
+    mobileNumber: 8220375
+  working:
+    days: "SUN-SAT 24*7"
+    leave: "N/A"
+  team:
+    - boys
+    - girls
