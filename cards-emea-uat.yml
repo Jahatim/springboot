@@ -1,0 +1,14 @@
+build:
+  version: "Default version from EMEA UAT"
+
+cards:
+  cardType: Visa
+  cardNumber: 123XX
+  cardVariants:
+    type1: Journey
+    type2: Rewards
+  cardOffers:
+    - Movie
+    - Game
+    - Sports
+    - Air Ticket
