@@ -1,1 +1,11 @@
+build:
+  version: "Default version from DEv cloud"
 
+cards:
+  cardType: Rupay
+  cardNumber: XX
+  cardVariants:
+    type1: lite
+    type2: jumbo
+  cardOffers:
+    - Movie
