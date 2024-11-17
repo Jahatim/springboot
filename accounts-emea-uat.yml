@@ -1,6 +1,3 @@
-build:
-  version: "emea-uat from cloud config"
-
 accounts:
   message: "This is property accounts service from emea UAT via cloud config"
   usage: "Used to store properties related to accounts from emea UAT from cloud config"
