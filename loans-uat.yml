@@ -2,7 +2,7 @@ build:
   version: "dev from cloud"
 
 loans:
-  message: "This is property loans service from UAT loans from cloud for bus live"
+  message: "This is property loans service from UAT loans from cloud for bus live config"
   usage: "Used to store properties related to loans from UAT loans from cloud"
   support:
     email: "support@citi.com"
