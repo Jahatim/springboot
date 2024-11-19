@@ -1,8 +1,8 @@
 build:
-  version: "Default version from DEv cloud f"
+  version: "Default version from DEv cloud f latest"
 
 cards:
-  cardType: Rupay
+  cardType: Rupay latest
   cardNumber: XX
   cardVariants:
     type1: lite
