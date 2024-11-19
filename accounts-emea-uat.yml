@@ -1,5 +1,5 @@
 accounts:
-  message: "This is property accounts service from emea UAT via cloud config for bus live config for refresh latest"
+  message: "This is property accounts service from emea UAT via cloud config for bus live config for refresh latest 2"
   usage: "Used to store properties related to accounts from emea UAT from cloud config"
   support:
     email: "support@citi.com"
