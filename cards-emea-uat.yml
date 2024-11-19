@@ -1,5 +1,5 @@
 build:
-  version: "Default version from EMEA UAT for bus"
+  version: "Default version from EMEA UAT for bus live"
 
 cards:
   cardType: Visa
