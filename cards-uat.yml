@@ -1,1 +1,12 @@
 
+build:
+  version: "Default version from UAT cloud latest"
+
+cards:
+  cardType: Rupay 
+  cardNumber: XX
+  cardVariants:
+    type1: lite
+    type2: jumbo
+  cardOffers:
+    - Movie
