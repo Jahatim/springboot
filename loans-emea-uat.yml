@@ -2,7 +2,7 @@ build:
   version: "emea-uat loans "
 
 loans:
-  message: "This is property loans service from emea UAT loans from cloud"
+  message: "This is property loans service from emea UAT loans from cloud config"
   usage: "Used to store properties related to loans from emea  UAT loans from cloud"
   support:
     email: "support@citi.com"
