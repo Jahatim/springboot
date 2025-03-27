@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "This is property accounts service from cloud config default edit"
+  message: "This is property accounts service from cloud config default"
   usage: "Used to store properties related to accounts from cloud config default"
   support:
     email: "support@gmail.com"
